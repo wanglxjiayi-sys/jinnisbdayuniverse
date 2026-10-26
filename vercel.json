@@ -1,3 +1,5 @@
 {
+  "buildCommand": "node scripts/build-photos.js",
+  "outputDirectory": "dist",
   "cleanUrls": true
 }
